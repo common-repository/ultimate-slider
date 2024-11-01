@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Slider\n"
+"POT-Creation-Date: 2021-04-12 16:33-0400\n"
+"PO-Revision-Date: 2021-04-12 16:33-0400\n"
+"Last-Translator: \n"
+"Language-Team: Etoile Web Design\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/Blocks.class.php:63 includes/CustomPostTypes.class.php:48
+#: includes/CustomPostTypes.class.php:50 includes/Widgets.class.php:26
+msgid "Ultimate Slider"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:49 includes/CustomPostTypes.class.php:442
+msgid "Slide"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:51 ultimate-slider.php:262
+msgid "Slides"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:52
+msgid "Add New"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:53
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:54
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:55
+msgid "New Slide"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:56
+msgid "View Slide"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:57
+msgid "Search Slides"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:58
+msgid "No slides found"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:59
+msgid "No slides found in trash"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:60
+msgid "All Slides"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:94 includes/CustomPostTypes.class.php:104
+msgid "Slider Categories"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:95
+msgid "Slider Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:96
+msgid "Search Slider Categories"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:97
+msgid "All Slider Categories"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:98
+msgid "Parent Slider Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:99
+msgid "Parent Slider Category:"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:100
+msgid "Edit Slider Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:101
+msgid "Update Slider Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:102
+msgid "Add New Slider Category"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:103
+msgid "New Slider Category Name"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:120
+msgid "Slider Tags"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:121
+msgid "Slider Tag"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:216
+msgid "Content"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:217
+#: includes/CustomPostTypes.class.php:287
+msgid "Buttons"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:218
+#: includes/InstallationWalkthrough.class.php:200
+msgid "Image"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:224
+msgid "Content Type"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:231
+msgid "Use this post's content"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:239
+msgid "Use UPCP product content"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:258
+msgid "Use WooCommerce product content"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:275
+msgid "Max Title Characters"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:280
+msgid "Max Body Characters"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:292
+msgid "Text"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:293
+msgid "Link Type"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:294
+#: includes/CustomPostTypes.class.php:307
+msgid "Custom Link"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:300
+msgid "Delete"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:324
+msgid "Add"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:333
+msgid "Image Options"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:340
+msgid "Use post's featured image"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:348
+msgid "Use YouTube URL"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:355
+msgid "Upgrade to the full version"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:355
+msgid "to be create YouTube video slides."
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:443
+msgid "Title"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:444
+msgid "Categories"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:445
+msgid "Order"
+msgstr ""
+
+#: includes/CustomPostTypes.class.php:446
+msgid "Date"
+msgstr ""
+
+#: includes/Dashboard.class.php:85
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Visit our website</a> to learn how to "
+"upgrade to premium."
+msgstr ""
+
+#: includes/Dashboard.class.php:251
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Visit our website</a> to learn how to get a "
+"free 7-day trial of the premium plugin."
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:58
+msgid "Quick Feedback"
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:59
+msgid ""
+"If you have a moment, please share why you are deactivating Ultimate Slider:"
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:74
+msgid "Submit and Deactivate"
+msgstr ""
+
+#: includes/DeactivationSurvey.class.php:75
+msgid "Skip and Deactivate"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:158
+msgid "Welcome to the Ultimate Slider Plugin"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:159
+msgid ""
+"Thanks for choosing the Ultimate Slider! The following will help you get "
+"started with the plugin, by choosing which images the slider should be "
+"displayed for as well as the look of the slider."
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:163
+msgid "1. Add Slides"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:167
+msgid "Slide Image"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:177
+msgid "Slide Title"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:183
+#: includes/InstallationWalkthrough.class.php:202
+msgid "Description"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:191
+msgid "Add Slide"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:197
+msgid "Created Slides"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:201
+msgid "Name"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:210
+#: includes/InstallationWalkthrough.class.php:235
+msgid "Next Step"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:216
+msgid "2. Add a Slider Page"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:218
+msgid ""
+"You can create a dedicated page for your slider below, or skip this step and "
+"add your slider to a page you've already created manually."
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:221
+msgid "Page Title"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:229
+msgid "Create Page"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:236
+#: includes/InstallationWalkthrough.class.php:316
+msgid "Previous Step"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:242
+msgid "3. Key Options"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:246
+msgid "Autoplay Slides"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:261
+msgid "Show Timer Bar"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:264
+#: includes/Settings.class.php:287
+msgid "Top"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:265
+#: includes/Settings.class.php:288
+msgid "Bottom"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:266
+#: includes/Settings.class.php:289
+msgid "Off"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:272 includes/Widgets.class.php:54
+msgid "Carousel Mode"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:287
+#: includes/Settings.class.php:235
+msgid "Aspect Ratio"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:302
+#: includes/Settings.class.php:300 includes/Widgets.class.php:55
+msgid "Slide Indicators"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:305
+#: includes/Settings.class.php:303 includes/Settings.class.php:466
+msgid "None"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:306
+#: includes/Settings.class.php:304
+msgid "Dots"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:307
+#: includes/Settings.class.php:305
+msgid "Thumbnails"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:308
+#: includes/Settings.class.php:306
+msgid "Side Thumbnails"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:314
+msgid "Save Options"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:317
+msgid "Finish"
+msgstr ""
+
+#: includes/InstallationWalkthrough.class.php:323
+msgid "Skip Setup"
+msgstr ""
+
+#: includes/ReviewAsk.class.php:57
+msgid "Email Address"
+msgstr ""
+
+#: includes/Settings.class.php:111 includes/Settings.class.php:112
+#: ultimate-slider.php:220 ultimate-slider.php:263
+msgid "Settings"
+msgstr ""
+
+#: includes/Settings.class.php:124
+msgid "Basic"
+msgstr ""
+
+#: includes/Settings.class.php:133
+msgid "Basic Options"
+msgstr ""
+
+#: includes/Settings.class.php:144
+msgid "REMINDER:"
+msgstr ""
+
+#: includes/Settings.class.php:145
+msgid "To display the slider, place the [ultimate-slider] shortcode on a page"
+msgstr ""
+
+#: includes/Settings.class.php:155
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/Settings.class.php:156
+msgid "You can add custom CSS styles to your slider in the box above."
+msgstr ""
+
+#: includes/Settings.class.php:165
+msgid "Autoplay Slideshow"
+msgstr ""
+
+#: includes/Settings.class.php:166
+msgid "Should the slider automatically toggle through slides?"
+msgstr ""
+
+#: includes/Settings.class.php:176
+msgid "Autoplay Delay"
+msgstr ""
+
+#: includes/Settings.class.php:177
+msgid ""
+"If autoplay is on, how many seconds should the timer wait before starting "
+"the slideshow?"
+msgstr ""
+
+#: includes/Settings.class.php:192
+msgid "Autoplay Interval"
+msgstr ""
+
+#: includes/Settings.class.php:193
+msgid ""
+"If autoplay is on, how many seconds should the slideshow wait between each "
+"slide?"
+msgstr ""
+
+#: includes/Settings.class.php:208
+msgid "Pause Autoplay on Hover"
+msgstr ""
+
+#: includes/Settings.class.php:209
+msgid "Should the slider autoplay automatically pause when you hover over it?"
+msgstr ""
+
+#: includes/Settings.class.php:219
+msgid "Slide Transition Time"
+msgstr ""
+
+#: includes/Settings.class.php:220
+msgid "How many seconds should each transition take to complete?"
+msgstr ""
+
+#: includes/Settings.class.php:241 includes/Settings.class.php:401
+msgid "(default)"
+msgstr ""
+
+#: includes/Settings.class.php:257
+msgid "Carousel"
+msgstr ""
+
+#: includes/Settings.class.php:258
+msgid ""
+"Display a carousel slider instead of the default. The \"Slide Transition "
+"Effect\" setting has to be set to \"Default\"."
+msgstr ""
+
+#: includes/Settings.class.php:268
+msgid "Carousel Columns"
+msgstr ""
+
+#: includes/Settings.class.php:269
+msgid ""
+"Set the number of slides that should be displayed at once in carousel mode"
+msgstr ""
+
+#: includes/Settings.class.php:284
+msgid "Timer Bar"
+msgstr ""
+
+#: includes/Settings.class.php:285
+msgid "Display a timer bar at the top or bottom of your slider."
+msgstr ""
+
+#: includes/Settings.class.php:301
+msgid "Display navigation controls to jump between slides."
+msgstr ""
+
+#: includes/Settings.class.php:317
+msgid "Button Link Action"
+msgstr ""
+
+#: includes/Settings.class.php:318
+msgid ""
+"Should button links open in the same or new windows? \"Smart\" opens "
+"external links in new windows and links on your site in the same window."
+msgstr ""
+
+#: includes/Settings.class.php:320
+msgid "Same Window"
+msgstr ""
+
+#: includes/Settings.class.php:321
+msgid "New Window"
+msgstr ""
+
+#: includes/Settings.class.php:322
+msgid "Smart"
+msgstr ""
+
+#: includes/Settings.class.php:340
+msgid "Premium"
+msgstr ""
+
+#: includes/Settings.class.php:350
+msgid "Premium Options"
+msgstr ""
+
+#: includes/Settings.class.php:363
+msgid "Slide Transition Effect"
+msgstr ""
+
+#: includes/Settings.class.php:364
+msgid "Which effect should be used to transition between slides?"
+msgstr ""
+
+#: includes/Settings.class.php:366
+msgid "Default"
+msgstr ""
+
+#: includes/Settings.class.php:367
+msgid "Fade"
+msgstr ""
+
+#: includes/Settings.class.php:368
+msgid "Slide Up"
+msgstr ""
+
+#: includes/Settings.class.php:369
+msgid "Slide Down"
+msgstr ""
+
+#: includes/Settings.class.php:370
+msgid "Stretch Right"
+msgstr ""
+
+#: includes/Settings.class.php:371
+msgid "Stretch Left"
+msgstr ""
+
+#: includes/Settings.class.php:372
+msgid "Grow"
+msgstr ""
+
+#: includes/Settings.class.php:373
+msgid "Expand"
+msgstr ""
+
+#: includes/Settings.class.php:384
+msgid "WooCommerce Product Image Slider"
+msgstr ""
+
+#: includes/Settings.class.php:385
+msgid ""
+"Should the WooCommerce product page image be converted into a slider when "
+"there's more than one image? (Might require changing the \"Aspect Ratio\" "
+"setting for the slider, depending on the theme you're using)"
+msgstr ""
+
+#: includes/Settings.class.php:395
+msgid "Mobile Aspect Ratio"
+msgstr ""
+
+#: includes/Settings.class.php:396
+msgid "What should the aspect ratio of the slider be on smaller screens?"
+msgstr ""
+
+#: includes/Settings.class.php:417
+msgid "Hide Elements from Slider"
+msgstr ""
+
+#: includes/Settings.class.php:418
+msgid "Hide specific elements of the slider."
+msgstr ""
+
+#: includes/Settings.class.php:434
+msgid "Hide Elements from Mobile View"
+msgstr ""
+
+#: includes/Settings.class.php:435
+msgid "Hide elements just from the mobile view."
+msgstr ""
+
+#: includes/Settings.class.php:452
+msgid "Mobile Link to Full Post?"
+msgstr ""
+
+#: includes/Settings.class.php:453
+msgid ""
+"Should clicking on a slide bring up the individual slide post on mobile?"
+msgstr ""
+
+#: includes/Settings.class.php:463
+msgid "Title Animation"
+msgstr ""
+
+#: includes/Settings.class.php:467
+msgid "Slide From Left"
+msgstr ""
+
+#: includes/Settings.class.php:468
+msgid "Slide From Right"
+msgstr ""
+
+#: includes/Settings.class.php:469
+msgid "Fade In"
+msgstr ""
+
+#: includes/Settings.class.php:470
+msgid "Scroll Down"
+msgstr ""
+
+#: includes/Settings.class.php:481
+msgid "Force Full Width"
+msgstr ""
+
+#: includes/Settings.class.php:482
+msgid ""
+"Force the slider to go the full width of the window, regardless of the "
+"container it's in."
+msgstr ""
+
+#: includes/Settings.class.php:492
+msgid "Add Watermark"
+msgstr ""
+
+#: includes/Settings.class.php:493
+msgid ""
+"Should a watermark be added to each image? Requires GD PHP module to be "
+"installed on your server."
+msgstr ""
+
+#: includes/Settings.class.php:503
+msgid "Lightbox on Image Click"
+msgstr ""
+
+#: includes/Settings.class.php:504
+msgid ""
+"Should a lightbox be opened when an image is clicked on? Particularly useful "
+"if you're using carousel mode. Want to customize this lightbox? Install the "
+"\"Ultimate Lightbox\" plugin , and you can switch the lightbox colors, "
+"controls, behaviour and more. It's free!"
+msgstr ""
+
+#: includes/Settings.class.php:522
+msgid "YouTube Slide Options"
+msgstr ""
+
+#: includes/Settings.class.php:535
+msgid "Autoplay Video"
+msgstr ""
+
+#: includes/Settings.class.php:536
+msgid "Should the video automatically start playing on page load?"
+msgstr ""
+
+#: includes/Settings.class.php:546
+msgid "Show Slide Content"
+msgstr ""
+
+#: includes/Settings.class.php:547
+msgid ""
+"Enabling this will overlay the slide content on top of the video. Disable it "
+"to only show the video."
+msgstr ""
+
+#: includes/Settings.class.php:557
+msgid "Video Opacity"
+msgstr ""
+
+#: includes/Settings.class.php:558
+msgid ""
+"This lets you set the opacity of the video, which can help if you have the "
+"content enabled above. (Examples would be 0, 0.5 or 1.)"
+msgstr ""
+
+#: includes/Settings.class.php:576
+msgid "Styling"
+msgstr ""
+
+#: includes/Settings.class.php:586
+msgid "Slide Title Options"
+msgstr ""
+
+#: includes/Settings.class.php:599 includes/Settings.class.php:643
+msgid "Color"
+msgstr ""
+
+#: includes/Settings.class.php:609 includes/Settings.class.php:653
+msgid "Font Family"
+msgstr ""
+
+#: includes/Settings.class.php:620 includes/Settings.class.php:664
+msgid "Font Size"
+msgstr ""
+
+#: includes/Settings.class.php:630
+msgid "Slide Text Options"
+msgstr ""
+
+#: includes/Settings.class.php:674
+msgid "Slide Button Options"
+msgstr ""
+
+#: includes/Settings.class.php:687
+msgid "Background Color"
+msgstr ""
+
+#: includes/Settings.class.php:697
+msgid "Background Hover Color"
+msgstr ""
+
+#: includes/Settings.class.php:707
+msgid "Border Color"
+msgstr ""
+
+#: includes/Settings.class.php:717
+msgid "Border Hover Color"
+msgstr ""
+
+#: includes/Settings.class.php:727
+msgid "Text Color"
+msgstr ""
+
+#: includes/Settings.class.php:737
+msgid "Text Hover Color"
+msgstr ""
+
+#: includes/Settings.class.php:754
+msgid "Controls"
+msgstr ""
+
+#: includes/Settings.class.php:764
+msgid "Control Options"
+msgstr ""
+
+#: includes/Settings.class.php:777
+msgid "Arrows"
+msgstr ""
+
+#: includes/Settings.class.php:780
+msgid "No Arrow"
+msgstr ""
+
+#: includes/Settings.class.php:808
+msgid "Background Shape"
+msgstr ""
+
+#: includes/Settings.class.php:811
+msgid "No Background"
+msgstr ""
+
+#: includes/Settings.class.php:812
+msgid "Square"
+msgstr ""
+
+#: includes/Settings.class.php:813
+msgid "Circle"
+msgstr ""
+
+#: includes/Settings.class.php:814
+msgid "Diamond"
+msgstr ""
+
+#: includes/Settings.class.php:825
+msgid "Arrow Color"
+msgstr ""
+
+#: includes/Settings.class.php:835
+msgid "Arrow Background Color"
+msgstr ""
+
+#: includes/Settings.class.php:845
+msgid "Clickable Area Color"
+msgstr ""
+
+#: includes/Settings.class.php:855
+msgid "Arrow Size"
+msgstr ""
+
+#: includes/Settings.class.php:866
+msgid "Arrow Background Size"
+msgstr ""
+
+#: includes/Settings.class.php:877
+msgid "Clickable Area Size"
+msgstr ""
+
+#: includes/Settings.class.php:888
+msgid "Line Height of Arrow Within Background (ex. \"1.25\")"
+msgstr ""
+
+#: includes/Widgets.class.php:27
+msgid "Add a slider to any widgetized area."
+msgstr ""
+
+#: includes/Widgets.class.php:51
+msgid "Number of Slides"
+msgstr ""
+
+#: includes/Widgets.class.php:52
+msgid "Slider Type"
+msgstr ""
+
+#: includes/Widgets.class.php:53
+msgid "Category"
+msgstr ""
+
+#: includes/Widgets.class.php:59
+msgid "Number of Slides:"
+msgstr ""
+
+#: includes/Widgets.class.php:69
+msgid "Slider Type:"
+msgstr ""
+
+#: includes/Widgets.class.php:77
+msgid "Category:"
+msgstr ""
+
+#: includes/Widgets.class.php:84
+msgid "Carousel Mode:"
+msgstr ""
+
+#: includes/Widgets.class.php:92
+msgid "Slide Indicators:"
+msgstr ""
+
+#: lib/simple-admin-pages/classes/AdminPage.class.php:173
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ultimate-slider.php:220
+msgid "Head to the settings page for Ultimate Slider"
+msgstr ""
+
+#: ultimate-slider.php:260
+msgid "MENU"
+msgstr ""
+
+#: ultimate-slider.php:261
+msgid "Dashboard"
+msgstr ""

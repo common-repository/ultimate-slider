@@ -1,0 +1,19 @@
+.ewd-us-clear {
+  clear: both;
+}
+
+.ewd-us-helper-install-notice {
+  display: inline-block;
+  clear: both;
+}
+
+.ewd-us-helper-install-notice-img,
+.ewd-us-helper-install-notice-txt
+ {
+  float: left;
+  padding: 8px 8px 8px 0px;
+}
+
+.ewd-us-helper-install-notice div img {
+  max-height: 36px;
+}
